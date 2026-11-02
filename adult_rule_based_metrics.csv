@@ -1,0 +1,2 @@
+total_predictions,correct_predictions,incorrect_predictions,true_positive,true_negative,false_positive,false_negative,rule_based_accuracy,precision_over_50K,recall_over_50K,f1_score_over_50K,baseline_accuracy,accuracy_difference
+15060,12148,2912,1367,10781,579,2333,80.66,70.25,36.95,48.42,75.43,5.23
